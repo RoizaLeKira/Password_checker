@@ -14,6 +14,6 @@ This Python script checks the strength of a password based on various criteria. 
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/password_checker.git
+   git clone https://github.com/RoizaLeKira/password_checker.git
    cd password_checker
 # Password_checker
